@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/button_gamelevels.xml" value="0.1545" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/button_gamelevels_films.xml" value="0.2115" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/button_gamelevels_multi.xml" value="0.2115" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/button_stroke_black95_press_white.xml" value="0.1" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/button_stroke_perimeter_br_press_all_br.xml" value="0.1385" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/button_stroke_white_press_blue.xml" value="0.1545" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/buttonstroke_black95_press_white.xml" value="0.1545" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/gradient_br.xml" value="0.1385" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/preview_dialog.xml" value="0.1385" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/style_btn_stroke_black95.xml" value="0.1545" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/style_btn_stroke_black95_press_white.xml" value="0.1545" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/style_btn_white.xml" value="0.1545" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/style_btn_white_blue_press.xml" value="0.1545" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/style_button_green.xml" value="0.16" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/style_button_orange.xml" value="0.1" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/style_button_red.xml" value="0.1" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/style_button_yellow.xml" value="0.1545" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/style_button_yellow60.xml" value="0.1545" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/style_img_universal.xml" value="0.1545" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/style_points.xml" value="0.1545" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/style_points_green.xml" value="0.2115" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/drawable/style_points_orange.xml" value="0.1" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/layout-large/universal.xml" value="0.16" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/layout-normal/universal.xml" value="0.1" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/layout-small/universal.xml" value="0.7731958762886598" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/layout-xlarge/universal.xml" value="0.18" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/layout/activity_main.xml" value="0.15648854961832062" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/layout/dialog_end.xml" value="0.5834542815674891" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/layout/gamelevels.xml" value="0.25" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/layout/preview_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/layout/preview_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Bululu/AndroidStudioProjects/CourseProject/app/src/main/res/layout/universal.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
